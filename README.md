@@ -95,7 +95,7 @@ vercel deploy --name my-project
 
 Vercel Deployment Link: 
 
-```https://feed-back-app.vercel.app/```
+https://feed-back-app.vercel.app/
 
 ### With [surge](https://surge.sh/)
 
